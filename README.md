@@ -6,16 +6,16 @@ The goal of this project is to prepare CNN Autoencoder to denoise input images f
 As dataset popular [image dataset](https://www.kaggle.com/somesh24/multiclass-images-for-weather-classification) were utilized. 
 It should be downloaded manually and images should be saved in hierarchical way:
 ```
-- dataset \
-|- cloudy \
-|- rain \
-|- shine \
-|- sunrise \
+- dataset
+|- cloudy
+|- rain
+|- shine
+|- sunrise
 ```
 ## Convergence loss
 ![Loss convergence](figures/convergence.png?raw=true "Loss convergence")
 
-## Convergence loss
+## Examples
 ![Example 1](figures/example_1.png?raw=true "Example 1")
 ![Example 2](figures/example_2.png?raw=true "Example 2")
 ![Example 3](figures/example_3.png?raw=true "Example 3")
